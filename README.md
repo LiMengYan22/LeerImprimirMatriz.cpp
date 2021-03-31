@@ -1,2 +1,2 @@
 # LeerImprimirMatriz.cpp
-Leer e imprimir los punteros de una matriz, en C++
+Programa que permite ingresar una *matriz con limite dinamico* y visualizarla, **en C++**
